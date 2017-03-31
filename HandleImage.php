@@ -1,3 +1,6 @@
+<?php
+namespace 1ike\ResizeImage;
+
 class HandleImage
 {
     /**
