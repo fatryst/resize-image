@@ -1,5 +1,5 @@
 <?php
-namespace 1ike\ResizeImage;
+namespace 1ike\resize-image;
 
 class HandleImage
 {
