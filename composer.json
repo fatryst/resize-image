@@ -1,0 +1,14 @@
+{
+    "name": "1kie/ResizeImage",
+    "description": "图像等比例压缩/缩略图",
+    "keywords": ["resize", "image"],
+    "license": "MIT",
+    "require": {
+        "php": ">=5.6.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "1kie\\ResizeImage\\": "/"
+        }
+    }
+}
